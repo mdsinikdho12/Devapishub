@@ -1,36 +1,124 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# <img alt="DevApiHub Banner"  src="https://res.cloudinary.com/dkmng0l5h/image/upload/v1769329459/uploads/ipsfrt7yikhy8wikwaea.png">  
+# 🚀 DevApiHub
 
-## Getting Started
+DevApiHub is a **developer-focused public API platform** that provides a curated collection of **free and public API endpoints** for learning, testing, and building real-world projects.
 
-First, run the development server:
+This project is designed to help **beginners, students, and frontend developers** quickly access APIs without the need to build backend systems from scratch.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+## 🌐 Live Preview
+
+🔗 **Main Website**  
+https://devapihub.vercel.app  
+
+📸 **UI Preview**
+
+<img alt="DevApiHub UI Screenshot" class="w-full h-80 object-cover rounded-xl shadow-md" src="https://res.cloudinary.com/dkmng0l5h/image/upload/v1769328878/uploads/unfr792odd9ca9cx3r9k.png">
+
+---
+
+## 💡 About the Project
+
+APIs play a crucial role in modern web development. However, many learners struggle to find **reliable, beginner-friendly, and well-documented public APIs** for practice.
+
+**DevApiHub** was built to solve this problem by offering:
+- Ready-to-use APIs
+- Clean documentation
+- A developer-friendly experience
+
+All in one place.
+
+---
+
+## 🧠 Key Features
+
+- 📦 **100+ Public API Endpoints**
+- 🏷️ Category-based API organization
+- 🔍 Clean and easy-to-read API documentation
+- ⭐ One-click API endpoint copy feature
+- 🔐 Free & Premium access concept
+- 📊 Daily API usage limit system (concept-based)
+- 🎯 Minimal, clean, and developer-friendly UI
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend (Public Repository)
+- Next.js (App Router)
+- React.js
+- Tailwind CSS
+- Framer Motion 
+
+### Backend (Private Repository)
+- Next.js Server Actions
+- MongoDB
+- Mongoose
+- Authentication system
+- Subscription & API usage limit logic
+
+---
+
+## 🔒 Source Code & Security Notice
+
+> ⚠️ For security, scalability, and business reasons, the following parts are **not included** in this public repository:
+
+- Backend business logic  
+- Database models  
+- Server actions  
+- Authentication & subscription handling  
+
+👉 The **complete backend source code is maintained in a private repository** and can be shared **upon request for technical or HR evaluation purposes**.
+
+This approach follows **real-world production and security best practices**.
+
+---
+
+## 📂 Project Structure (Public)
+
+```txt
+src/
+ ├── app/          # App router pages & layouts
+ ├── components/   # Reusable UI components
+ ├── constants/    # Static values & configs
+ ├── styles/       # Global & custom styles
+ └── utils/        # Helper functions
+
 ```
+--- 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎯 Project Goals
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+DevApiHub was built to:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Help beginners learn API consumption
+- Support frontend developers with ready APIs
+- Demonstrate real-world full-stack architecture
+- Showcase SaaS-style feature planning
+- Follow secure backend handling practices
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 What I Learned
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Through building DevApiHub, I gained hands-on experience in:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Designing scalable full-stack architecture
+- Implementing API usage limitation systems
+- Handling secure backend logic
+- Planning premium & free feature access
+- Presenting a developer-centric product
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👨‍💻 Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Md. Sinikdho**  
+🎓 CST Student  
+💻 MERN Stack Web Developer  
+🚀 Passionate about building developer tools  
+
+- GitHub: https://github.com/mdsinikdho12  
+- LinkedIn:https://www.linkedin.com/in/md-ferdousmahmud/
+
