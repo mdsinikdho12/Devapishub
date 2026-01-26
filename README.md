@@ -81,7 +81,7 @@ This approach follows **real-world production and security best practices**.
 src/
  ├── app/          # App router pages & layouts
  ├── components/   # Reusable UI components
- ├── constants/    # Static values & configs
+ ├── data/    # Static values & configs
  ├── styles/       # Global & custom styles
  └── utils/        # Helper functions
 
