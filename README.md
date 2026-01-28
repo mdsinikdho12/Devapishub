@@ -10,7 +10,7 @@ This project is designed to help **beginners, students, and frontend developers*
 ## 🌐 Live Preview
 
 🔗 **Main Website**  
-https://devapihub.vercel.app  
+https://www.devapihub.xyz/
 
 📸 **UI Preview**
 
